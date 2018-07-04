@@ -1,2 +1,2 @@
 # python-simple-games
-old games on python
+Old games on python
